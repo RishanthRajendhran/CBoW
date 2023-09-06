@@ -1,0 +1,8 @@
+(better, worse) [similarity(better, worse) = 0.9852820634841919, similarity(mother, brother) = 0.972971498966217]
+(hot, cold) [similarity(hot, cold) = 0.9738059043884277, similarity(coffee, tea) = 0.9656388759613037]
+(ship, sea) [similarity(ship, sea) = 0.9641245603561401, similarity(rain, car) = 0.9270482659339905]
+(winter, cold) [similarity(summer, hot) = 0.9625271558761597, similarity(winter, cold) = 0.966585099697113]
+Could not find one or more words in vocabulary: mug
+(cradle, baby) [similarity(cradle, baby) = 0.9676306247711182, similarity(mug, coffee) = 0.966585099697113]
+(driver, driving) [similarity(teacher, teaching) = 0.959038257598877, similarity(driver, driving) = 0.9628301858901978]
+(up, down) [similarity(high, low) = 0.9736392498016357, similarity(up, down) = 0.9737433195114136]

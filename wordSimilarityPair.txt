@@ -1,0 +1,5 @@
+cat:tiger,plane:human
+my:mine,happy:human 
+happy:cat,king:princess
+ball:racket,good:ugly
+cat:racket,good:bad

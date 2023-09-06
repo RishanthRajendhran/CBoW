@@ -1,0 +1,5 @@
+(cat, tiger) [similarity(cat, tiger) = 0.9614888429641724, similarity(plane, human) = 0.9510974884033203]
+(my, mine) [similarity(my, mine) = 0.9736698865890503, similarity(happy, human) = 0.9543138146400452]
+(happy, cat) [similarity(happy, cat) = 0.9496258497238159, similarity(king, princess) = 0.9469130039215088]
+(ball, racket) [similarity(ball, racket) = 0.9648303985595703, similarity(good, ugly) = 0.9528474807739258]
+(good, bad) [similarity(cat, racket) = 0.9588883519172668, similarity(good, bad) = 0.9769246578216553]

@@ -1,0 +1,9 @@
+king:queen,man:?
+king:queen,prince:?
+king:man,queen:?
+woman:man,princess:?
+prince:princess,man:?
+summer:hot,winter:?
+cradle:baby,mug:?
+teacher:teaching,driver:?
+high:low,up:?

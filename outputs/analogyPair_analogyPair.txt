@@ -1,0 +1,9 @@
+king:queen,man:men [0.9403175115585327]
+king:queen,prince:shogun [0.9441017508506775]
+king:man,queen:ambassador [0.9260417222976685]
+woman:man,princess:azai [0.9494025111198425]
+prince:princess,man:oaths [0.9336824417114258]
+summer:hot,winter:autumn [0.9426466822624207]
+mug not in vocab
+teacher:teaching,driver:parting [0.9416662454605103]
+high:low,up:vigour [0.9589495658874512]

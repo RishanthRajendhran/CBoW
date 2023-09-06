@@ -1,0 +1,7 @@
+better:worse,mother:brother
+hot:cold,coffee:tea
+ship:sea,rain:car
+summer:hot,winter:cold
+cradle:baby,mug:coffee
+teacher:teaching,driver:driving
+high:low,up:down
